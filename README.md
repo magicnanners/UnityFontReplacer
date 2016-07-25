@@ -18,5 +18,8 @@ If you'd like a prepacked verison of this tool you can [download it here.](https
 
 Please let me know if you have any issues. Enjoy!
 
+#Usage
+Please feel free to use this however you see fit, just be sure to give credit if you extend this or use it in your project. Let me know if you find this useful by the way! I'd love to see what you're using it on :)
+
 # Credits
 Created by Jennifer Boyd ([Twitter](https://twitter.com/magicnanners), [itchio](https://magicnanners.itch.io/), [Patreon](https://www.patreon.com/fromfiregames))
